@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HelperSite/static/css/main.3d9c2828.css",
+    "main.js": "/HelperSite/static/js/main.7645278b.js",
+    "index.html": "/HelperSite/index.html",
+    "main.3d9c2828.css.map": "/HelperSite/static/css/main.3d9c2828.css.map",
+    "main.7645278b.js.map": "/HelperSite/static/js/main.7645278b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d9c2828.css",
+    "static/js/main.7645278b.js"
+  ]
+}
