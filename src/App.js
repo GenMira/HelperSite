@@ -6,8 +6,6 @@ import {
   Route,
   Routes,
 } from "react-router-dom";
-// import Manufest from "./components/manufest.js"
-// import Sidebar from './components/sidebarr';
 import Drive from "./components/appuse/drive.js"
 import Meet from './components/appuse/meet';
 import Form from './components/appuse/form';
@@ -38,8 +36,3 @@ function App() {
 
 
 export default App;
-{/* <MainContents/> */}
-{/* <Manufest />
-<Sidebar /> */}
-{/* <Route path="/" component={MainContents}/>  
-<Route path="/drive" component={Drive}/> */}
